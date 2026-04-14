@@ -10,7 +10,7 @@ This repository contains short, focused datasets available on Kaggle. These data
 
 ## How to Use
 
-1. **Download the Dataset**: Visit [Kaggle](https://www.kaggle.com/datasets) to explore and download datasets.
+1. **Download the Dataset**: Visit [Kaggle](https://www.kaggle.com/muhammadshayan5839/datasets?owner=owns) to explore and download datasets.
 2. **Import to your Environment**: You can use the dataset in Python, R, or other data analysis tools.
 3. **Experiment & Build Models**: Quickly apply algorithms, test out ideas, and learn from the data.
 
